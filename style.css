@@ -1,0 +1,28 @@
+.container {
+    margin: 50px;
+}
+main .main-line {
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+}
+main button {
+    background-color: tan !important;
+    border-color: tan !important;
+}
+th {
+    padding: 4px;
+    padding-left: 5px;
+    border-left: 1px dotted rgba(200, 209, 224, 0.6);
+    border-bottom: 1px solid #e8e8e8;
+    background: #ffc491;
+    text-align: left;
+    box-shadow: 0px 0px 0 2px #e8e8e8;
+}
+
+table  {
+    text-align:center;
+    border: 1px solid black;
+}
+table td {
+    padding: 6px;
